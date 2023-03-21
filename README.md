@@ -148,3 +148,31 @@ I would like to thank Microverse
 ## 📝 License
 
 This project is [MIT]() licensed.
+
+👤 **Akinlosotu Peter**
+
+- GitHub: [@githubhandle](https://github.com/Peterakin)
+- Twitter: [@twitterhandle](https://twitter.com/peterakinlosot1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peterakinlosotu)
+
+
+## Future Feature
+- Add the home page
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank to my mom
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License
+
+
