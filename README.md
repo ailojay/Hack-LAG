@@ -121,6 +121,10 @@ rspec spec
 - Twitter: [@twitterhandle](https://twitter.com/profsain)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
 
+👤 **Nkwocha Joseph St-Jousef**
+
+- GitHub: [@githubhandle](https://github.com/St-Jousef)
+-
 
 ## Future Feature
 - Add users account
