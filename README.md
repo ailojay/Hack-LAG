@@ -2,20 +2,20 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
+- [📖 About the Project](#Vishwanath's Pearls-Hacklag)
+  - [🛠 Built With](#HTML)
+    <!-- - [Tech Stack](#tech-stack) -->
+    <!-- - [Key Features](#key-features) -->
+  <!-- - [🚀 Live Demo](#live-demo) -->
+<!-- - [💻 Getting Started](#getting-started) -->
+  <!-- - [Setup](#setup) -->
+  <!-- - [Prerequisites](#prerequisites) -->
+  <!-- - [Install](#install) -->
+  <!-- - [Usage](#usage) -->
+  <!-- - [Run tests](#run-tests) -->
+  <!-- - [Deployment](#) -->
+- [👥 Authors](#contributing author)
+<!-- - [🔭 Future Features](#future-features) -->
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -24,18 +24,18 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Raw Sienna Hackerton] <a name="about-project"></a>
+# 📖 [Git collaboration] <a name="Vishwanath's Pearls-Hacklag"></a>
 
-Raw Sienna Hackerton
-## 🛠 Built With <a name="built-with"></a>
+Vishwanath's Pearls-Hacklag
+## 🛠 Built With <a name="HTML"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
-  <ul>
+  <!-- <ul>
     <li><a href="https://rubyonrails.org/">HTML</a></li>
-  </ul>
+  </ul> -->
 </details>
 
 <details>
@@ -53,21 +53,21 @@ Raw Sienna Hackerton
   </ul> -->
 </details>
 
-<!-- Features -->
+<!-- Features
 
 ### Key Features <a name="key-features"></a>
 
 - rails react setup
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 coming soon
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -82,12 +82,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 - Have a computer and internet connection
-- Have `Ruby` installed on your computer
-- Have a basic knowledge of `Ruby` and `OOP` concept
+<!-- - Have `Ruby` installed on your computer
+- Have a basic knowledge of `Ruby` and `OOP` concept -->
 - Have a general understanding of what testing is
 - Have `visual-studio code` or any other code editor installed on your computer.
 
-### Setup
+<!-- ### Setup
 - In order to get a copy of this project you need to download it from https://github.com/Profsain/hello-rails-react
 - Extract the zipped file and open it in your code editor
 ### Install
@@ -112,24 +112,24 @@ rspec spec
 ```Ruby
 > Rubocop --color
 > Rubocop -A
-```
+``` -->
 ## Authors
 
-👤 **Husseini Mudi Profsain**
+👤 **Adeyemo Adams**
 
-- GitHub: [@githubhandle](https://github.com/Profsain)
-- Twitter: [@twitterhandle](https://twitter.com/profsain)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
+- GitHub: [@githubhandle](https://github.com/Hardarmyyy)
+<!-- - Twitter: [@twitterhandle](https://twitter.com/profsain)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain) -->
 
 
-## Future Feature
+<!-- ## Future Feature
 - Add users account
 - Sending greeting message to group
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Profsain/).
+Feel free to check the [issues page](https://github.com/Profsain/). -->
 
 ## Show your support
 
@@ -139,11 +139,11 @@ Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+<!-- ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ## 📝 License
 
