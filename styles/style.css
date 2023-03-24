@@ -1,0 +1,14 @@
+.horizon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 15px;
+}
+
+.navbar{
+    margin: 0 15px;
+    list-style: none;
+}
+
+#image11 { height: 200px;
+}
